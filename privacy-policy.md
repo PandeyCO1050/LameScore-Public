@@ -43,7 +43,7 @@ If you do not opt in, your videos are processed and then discarded. Nothing is r
 | Job scores | Return results to you in the app |
 | Archived video (opt-in only) | Improve the lameness detection model |
 
-We do not sell, rent, or share your data with advertisers or unaffiliated third parties.
+We do not intend to sell, rent, or share your data with advertisers or unaffiliated third parties.
 
 ---
 
