@@ -11,4 +11,4 @@ an AI-powered cow lameness detection tool developed at Iowa State University.
 **Contact:** Mason Inman - mjinman@iastate.edu  
 **Institution:** Iowa State University
 
-(c) 2025 Mason Inman, Iowa State University. All rights reserved.
+(c) 2026 Mason Inman, Iowa State University. All rights reserved.
