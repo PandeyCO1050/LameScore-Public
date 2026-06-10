@@ -8,6 +8,6 @@ an AI-powered cow lameness detection tool developed at Iowa State University.
 
 ---
 
-**Contact:** Mason Inman - mjinman@iastate.edu  
+**Contact:** Mason Inman - mjinman@iastate.edu; Santosh Pandey - pandey@iastate.edu
 
 (c) 2026 LameScore LLC. All rights reserved.
