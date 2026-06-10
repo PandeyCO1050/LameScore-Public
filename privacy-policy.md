@@ -1,14 +1,13 @@
 # Privacy Policy
 
 **LameScore**  
-Iowa State University  
 Last updated: June 2025
 
 ---
 
 ## Who we are
 
-LameScore is a research application developed by Mason Inman at Iowa State University.
+LameScore is a research application developed by Mason Inman.
 It uses computer vision to score cow lameness from side-view walking videos.
 Contact: mjinman@iastate.edu
 
@@ -93,5 +92,4 @@ updated terms before continuing.
 ## Contact
 
 Mason Inman  
-Iowa State University  
 mjinman@iastate.edu
