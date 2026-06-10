@@ -16,8 +16,8 @@ Contact: mjinman@iastate.edu
 ## What we collect
 
 ### Always collected
-- **Video files** you upload or record within the app, for the sole purpose of running
-  the lameness detection analysis.
+- **Temporary Video files** you upload or record within the app, for the sole purpose of running
+  the lameness detection analysis. If not opted-in, they are removed after processing.
 - **Job results** (lameness scores and processing status) associated with each submitted video.
 
 We do **not** collect your name, email address, phone number, precise location,
@@ -49,7 +49,7 @@ We do not intend to sell, rent, or share your data with advertisers or unaffilia
 ## Where your data is stored
 
 Videos are transmitted over HTTPS to cloud GPU servers operated by
-[Modal Labs](https://modal.com) on behalf of Iowa State University.
+[Modal Labs](https://modal.com).
 Archived training videos (opt-in only) are stored on encrypted persistent storage
 within that same infrastructure. Modal's privacy policy is available at
 https://modal.com/privacy.
@@ -68,7 +68,7 @@ https://modal.com/privacy.
 ## Your rights
 
 You may request access to, correction of, or deletion of any data we hold about you
-by emailing mjinman@iastate.edu. Because we do not collect identifying information,
+by emailing mjinman@iastate.edu or pandey@iastate.edu. Because we do not collect identifying information,
 requests should include a description of the video(s) submitted (approximate date/time)
 so we can locate the relevant records.
 
