@@ -9,7 +9,7 @@ Last updated: June 2025
 ## Who we are
 
 LameScore is a research application developed by Mason Inman at Iowa State University.
-It uses computer vision to score cow lameness from short walking videos.
+It uses computer vision to score cow lameness from side-view walking videos.
 Contact: mjinman@iastate.edu
 
 ---
@@ -27,10 +27,9 @@ device identifiers, or any other personal information.
 ### Optionally collected (with your explicit consent)
 During onboarding you may choose to opt in to sharing your uploaded videos with the
 research team. If you opt in:
-- Raw video files are archived securely on cloud infrastructure controlled by the
-  Iowa State research team.
+- Raw video files are archived securely on cloud infrastructure controlled by our research team.
 - These videos are used to develop and improve automated lameness detection technology.
-- You can withdraw consent at any time by contacting mjinman@iastate.edu.
+- You can withdraw consent at any time by contacting mjinman@iastate.edu or pandey@iastate.edu.
 
 If you do not opt in, your videos are processed and then discarded. Nothing is retained.
 
